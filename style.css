@@ -48,3 +48,14 @@
   font-family:'Times New Roman', Times, serif;
   border-radius: 25px;
 }
+#carousel-section p1 {
+  box-sizing: content-box;
+  margin-top: 0px;
+  margin-bottom:0px;
+  background-image:linear-gradient( to right,#FAC213,#FEF9A7);
+}
+.titre-2{
+   font-size: 25px;
+  font-weight: 600;
+}
+
